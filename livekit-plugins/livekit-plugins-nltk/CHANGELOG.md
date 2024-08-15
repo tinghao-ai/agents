@@ -1,5 +1,11 @@
 # livekit-plugins-nltk
 
+## 0.7.1
+
+### Patch Changes
+
+- nltk: fix broken punkt download - [#619](https://github.com/livekit/agents/pull/619) ([@nbsp](https://github.com/nbsp))
+
 ## 0.7.0
 
 ### Minor Changes
